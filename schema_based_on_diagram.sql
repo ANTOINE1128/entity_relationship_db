@@ -72,3 +72,4 @@ CREATE TABLE medical_histories_treatments (
 
 CREATE INDEX idx_medical_history_id ON medical_histories_treatments(medical_history_id);
 CREATE INDEX idx_treatment_id ON medical_histories_treatments (treatment_id);
+
