@@ -60,4 +60,12 @@ CREATE TABLE treatments(
 );
 
 
--- create
+CREATE TABLE medical_histories_treatments (
+    id INTEGER PRIMARY KEY AUTOINCREMENT,
+    medical_history_id INTEGER,
+    treatment_id INTEGER,
+    PRIMARY KEY (medical_history_id, treatment_id),
+    FOREIGN KEY (treatment_id) REFERENCES treatments(treatment_id) 
+    FOREIGN KEY (medical_history_id) REFERENCES medical_histories(medical_history_id) 
+    ON DELETE SET NULL
+)
