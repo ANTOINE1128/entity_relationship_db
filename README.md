@@ -63,21 +63,21 @@ To run this project, you need to have PostgreSQL installed on your local machine
    git clone https://github.com/ANTOINE1128/entity_relationship_db.git
 ### Usage
 # To Create the database in PostgreSQLexecute the following command:
-  createdb vet_clinic
+  createdb data_diagram
   Create the database in PostgreSQL:
 
-createdb vet_clinic
+createdb data_diagram
 Navigate to the repository folder:
 
-cd Vet-clinic-database
+cd data-diagram-database
 Import the schema into the database:
 
 
-psql -d vet_clinic -f schema.sql
+psql -d data_diagram -f schema.sql
 Import the sample data into the database:
 
 
-psql -d vet_clinic -f data.sql
+psql -d data-diagram -f data.sql
 <!--
 Example command:
 
