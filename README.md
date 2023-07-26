@@ -22,7 +22,7 @@ This repository includes files with plain SQL that can be used to recreate a dat
 <!-- PROJECT DESCRIPTION -->
 ## About the Project <a name="about-project"></a>
 
-**Data diagram** is a repository containing SQL files for creating and querying a Data diagram. The database includes tables for animals, animal owners, clinic employees, and visits.
+**Data diagram** is a repository containing SQL files for creating and querying a Data diagram. The database includes tables for patients, medical hsitory and incoices.
 ## built-with
 
 **postgres**
