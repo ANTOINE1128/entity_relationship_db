@@ -6,7 +6,7 @@ This repository includes files with plain SQL that can be used to recreate a dat
 ## Table of Contents
 
 - [About the Project](#about-project)
-[built with](#built-with)
+- [built with](#built-with)
 - [Getting Started](#getting-started)
   - [Setup](#setup)
   - [Prerequisites](#prerequisites)
@@ -20,6 +20,7 @@ This repository includes files with plain SQL that can be used to recreate a dat
 
 **Data diagram** is a repository containing SQL files for creating and querying a Data diagram. The database includes tables for animals, animal owners, clinic employees, and visits.
 ## built-with
+
 **postgres**
 **SQl**
 
