@@ -1,21 +1,25 @@
-<!-- TABLE OF CONTENTS -->
+
  
-# Data diagram
-
+## Data diagram
 This repository includes files with plain SQL that can be used to recreate a database based on a clinc diagram
-## Table of Contents
+# 📗 Table of Contents
 
-- [About the Project](#about-project)
-- [built with](#built-with)
-- [Getting Started](#getting-started)
+- [📖 About the Project](#about-project)
+  - [🛠 Built With](#built-with)
+    - [Tech Stack](#tech-stack)
+    - [Key Features](#key-features)
+- [💻 Getting Started](#getting-started)
   - [Setup](#setup)
-  - [Prerequisites](#prerequisites)
   - [Install](#install)
   - [Usage](#usage)
-  - [Run Tests](#run-tests)
-- [Authors](#authors)
-- [License](#license)
+  - [Deployment](#triangular_flag_on_post-deployment)
+- [👥 Authors](#authors)
+- [🔭 Future Features](#future-features)
+- [🤝 Contributing](#contributing)
+- [🙏 Acknowledgements](#acknowledgements)
+- [📝 License](#license)
 
+<!-- PROJECT DESCRIPTION -->
 ## About the Project <a name="about-project"></a>
 
 **Data diagram** is a repository containing SQL files for creating and querying a Data diagram. The database includes tables for animals, animal owners, clinic employees, and visits.
