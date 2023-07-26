@@ -110,6 +110,7 @@ Example:
 👤 **> Prosper kessie**
 - GitHub: [@githubhandle](https://github.com/kessie2862)
 - LinkedIn: [LinkedIn](https://www.linkedin.com/in/prosperkessie/)
+
 👤 **> Abidemi Fashoro**
 - GitHub: [@githubhandle](https://github.com/DebyGrey)
 - LinkedIn: [LinkedIn](https://www.linkedin.com/in/deborah-fashoro)
