@@ -1,8 +1,8 @@
 
  
-## Data diagram
+# Data diagram
 This repository includes files with plain SQL that can be used to recreate a database based on a clinc diagram
-# 📗 Table of Contents
+## 📗 Table of Contents
 
 - [📖 About the Project](#about-project)
   - [🛠 Built With](#built-with)
