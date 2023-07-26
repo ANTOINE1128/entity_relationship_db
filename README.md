@@ -6,6 +6,7 @@ This repository includes files with plain SQL that can be used to recreate a dat
 ## Table of Contents
 
 - [About the Project](#about-project)
+[built with](#built-with)
 - [Getting Started](#getting-started)
   - [Setup](#setup)
   - [Prerequisites](#prerequisites)
@@ -18,6 +19,9 @@ This repository includes files with plain SQL that can be used to recreate a dat
 ## About the Project <a name="about-project"></a>
 
 **Data diagram** is a repository containing SQL files for creating and querying a Data diagram. The database includes tables for animals, animal owners, clinic employees, and visits.
+## built-with
+**postgres**
+**SQl**
 
 #### Tech Stack <a name="tech-stack"></a>
 
@@ -25,15 +29,13 @@ This repository includes files with plain SQL that can be used to recreate a dat
   
 ### Key Features <a name="key-features"></a>
 
-- **Animal Management:** The database allows you to store information about animals, including their names, species, and medical history.
+- **client Management:** The database allows you to store information about patients, including their names, and medical history.
 
-- **Owner Information:** You can also store data about animal owners, such as their names, contact details, and the animals they own.
+- **medical history Information:** You can also store data about the medical history of patients.
 
 - **Employee Records:** The database includes tables to manage clinic employees' information, including their roles and contact information.
 
 ### Future Features <a name="future-features"></a>
-
-- **Visit Tracking:** Add a feature to track and manage visits made by animals to the clinic, including appointment details, diagnosis, and treatment information.
 
 - **Billing and Payments:** Implement a module to manage billing and payments for clinic services, including generating invoices and tracking payment records.
 
@@ -53,7 +55,7 @@ To run this project, you need to have PostgreSQL installed on your local machine
 1. Clone this repository:
 
    ``bash
-   git clone https://github.com/ANTOINE1128/Vet-clinic-database.git
+   git clone https://github.com/ANTOINE1128/entity_relationship_db.git
 ### Usage
 # To Create the database in PostgreSQLexecute the following command:
   createdb vet_clinic
@@ -115,7 +117,7 @@ Example:
 
 Contributions, issues, and feature requests are welcome!
 
-Feel free to check the [issues page](../../issues/).
+Feel free to check the [issues page](https://github.com/ANTOINE1128/entity_relationship_db/issues).
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 ## ⭐️ Show your support <a name="support"></a>
